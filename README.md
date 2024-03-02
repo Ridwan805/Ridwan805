@@ -18,11 +18,21 @@ Welcome to the land of learning something new and exciting.
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridwan805&show_icons=true&locale=en&layout=compact" alt="ridwan805" /></p>
+<h3 align="left">Sololearn Certificates:</h4>
+<p>
+  <a href="https://www.sololearn.com/certificates/CC-RUIKF9SY">
+    <img src="./certificates/Introduction to C.jpg" alt="Introduction to C" width="350"/>
+  </a>
+  <a href="https://www.sololearn.com/certificates/CC-FUQTNNHT">
+    <img src="./certificates/C intermidiate.jpg" alt="C Intermediate"  width="350"/>
+  </a>
+</p><br /><br />
+
+**<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridwan805&show_icons=true&locale=en&layout=compact" alt="ridwan805" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridwan805&show_icons=true&locale=en" alt="ridwan805" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridwan805&" alt="ridwan805" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridwan805&" alt="ridwan805" /></p>**
 
 
 
