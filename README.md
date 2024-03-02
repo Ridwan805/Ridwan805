@@ -1,4 +1,5 @@
-### Hi there 👋
+### Ahoy there 👋 
+Welcome to the land of learning something new and exciting. 
 
 
 
