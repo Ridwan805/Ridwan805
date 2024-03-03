@@ -2,6 +2,7 @@
 Welcome to the land of learning something new and exciting. 
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ridwan805&label=Goldberging%20me&color=0e75b6&style=flat" alt="ridwan805" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
