@@ -14,6 +14,7 @@
 <a href="https://www.hackerrank.com/@ridwanurrahman21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ridwanurrahman21" height="30" width="40" /></a>
 <a href="https://discord.gg/rid_0905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rid_0905" height="30" width="40" /></a>
 <a href="https://www.instagram.com/i_am.the.wan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rid_0905" height="30" width="40" /></a>
+<a href="https://www.behance.net/in_a_flash" target="blank"><img align="center" src="./images/behance-1.png" alt="in_a_flash" width="33" /></a>
 </p>
 
 
