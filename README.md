@@ -39,7 +39,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridwan805&label=Goldberging%20me&color=0e75b6&style=flat" alt="ridwan805" width = "150"/> </p>
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridwan805" alt="ridwan805" /></a> </p>
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@ridwanurra31653/30-nites-of-code)  
