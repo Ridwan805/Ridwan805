@@ -21,10 +21,11 @@
 
 
 <h1 align="left">Languages and Tools:</h1>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/tutorial/c++-tutorial.html?inl=pf" target="_blank" rel="noreferrer"> <img src="./images/C++ logo.png" alt="cpp" width="34"/> </a></p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/tutorial/c++-tutorial.html?inl=pf" target="_blank"> <img src="./images/C++ logo.png" alt="cpp" width="34"/> </a><a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="./images/photoshop.png" alt="photoshop" width="40" height="40"/> </a></p>
 
-<h1 align="left">Sololearn Certificates:</h1>
+<h1 align="left">Certificates:</h1>
 <p>
+<h3 align="left">Sololearn</h3>
   <a href="https://www.sololearn.com/certificates/CC-RUIKF9SY">
     <img src="./certificates/Introduction to C.jpg" alt="Introduction to C" width="350"/>
   </a>
