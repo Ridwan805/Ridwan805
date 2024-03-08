@@ -34,6 +34,14 @@
   </a>
 </p><br /><br />
 
+<h3 align="left">Sololearn</h3>
+  <a href="https://www.hackerrank.com/certificates/2c1b81f76205">
+    <img src="./certificates/Python.png" alt="Python basics" width="350"/>
+  </a>
+</p><br /><br />
+
+
+
 **<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridwan805&show_icons=true&locale=en&layout=compact" alt="ridwan805" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridwan805&show_icons=true&locale=en" alt="ridwan805" /></p>
