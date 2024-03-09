@@ -32,8 +32,8 @@
   <a href="https://www.sololearn.com/certificates/CC-FUQTNNHT">
     <img src="./certificates/C intermidiate.jpg" alt="C Intermediate"  width="350"/>
   </a>
-  <a herf ="https://www.sololearn.com/certificates/CC-PZDHNN9U">
-    <img src="./certificates/Introduction to C++.jpg" alt = "Iintroduction to C++" width = "350"/>
+  <a herf="https://www.sololearn.com/certificates/CC-PZDHNN9U">
+    <img src="./certificates/Introduction to C++.jpg" alt="Iintroduction to C++" width="350"/>
   </a>
 </p><br /><br />
 
