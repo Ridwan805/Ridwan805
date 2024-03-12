@@ -43,6 +43,13 @@
   </a>
 </p><br /><br />
 
+<h2 align = "center">Projects</h3>
+
+<br/>
+<img align="center" alt ="gif" width = "250" src ="https://github.com/Ridwan805/Ridwan805/blob/main/projects/clock.gif">
+<br/>
+<br><br/><br/>
+
 
 
 **<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridwan805&show_icons=true&locale=en&layout=compact" alt="ridwan805" /></p>
@@ -53,7 +60,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridwan805&label=Goldberging%20me&color=0e75b6&style=flat" alt="ridwan805" width = "150"/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridwan805&theme=onedark" alt="ridwan805" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridwan805&theme=onedark" alt="ridwan805" /></a> </p>**
 
 
 ## #30NitesOfCode:
