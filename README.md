@@ -44,10 +44,15 @@
 </p><br /><br />
 
 <h2 align = "center">Projects</h3>
+<p>
+  <a herf = "https://github.com/Ridwan805/Codedex-project/tree/main/python">
+     <img align="center" alt ="gif" width = "250" src ="./projects/clock.gif">
+  </a>
 
-<br/>
-<img align="center" alt ="gif" width = "250" src ="https://github.com/Ridwan805/Ridwan805/blob/main/projects/clock.gif">
-<br/>
+<a href = "https://github.com/Ridwan805/Tkinter/tree/main/Sorting%20hat">
+    <img align = "center" alt = "HP" width = "250" src = "./projects/sorting%20hat.png">
+</a>
+</p>
 <br><br/><br/>
 
 
