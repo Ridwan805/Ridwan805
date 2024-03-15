@@ -45,13 +45,18 @@
 
 <h2 align = "center">Projects</h3>
 <p>
-  <a herf = "https://github.com/Ridwan805/Codedex-project/tree/main/python">
-     <img align="center" alt ="gif" width = "250" src ="./projects/clock.gif">
+  <ul>
+    <li>
+   <a herf = "https://github.com/Ridwan805/Codedex-project/tree/main/python">
+     <img align="center" alt ="gif" width = "150" src ="./projects/clock.gif">
+   </a>
+     </li>
+   <li>
+   <a href = "https://github.com/Ridwan805/Tkinter/tree/main/Sorting%20hat">
+    <img align = "center" alt = "HP" width = "150" src = "./projects/sorting%20hat.png">
   </a>
-
-<a href = "https://github.com/Ridwan805/Tkinter/tree/main/Sorting%20hat">
-    <img align = "center" alt = "HP" width = "250" src = "./projects/sorting%20hat.png">
-</a>
+     </li>
+  </ul>
 </p>
 <br><br/><br/>
 
