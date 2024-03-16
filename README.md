@@ -1,6 +1,6 @@
 ### Ahoy there 👋 
 # Welcome to the land of learning something new and exciting.
-### [Hello, Welcome to my Github profile. My name is Ridwan and currently I am pursuing my Bachelors of Science in Computer Science and Engineering from BRAC University. I am currently enrolled in 6th semester]
+### <p>Hello, Welcome to my Github profile. My name is Ridwan and currently I am pursuing my Bachelors of Science in Computer Science and Engineering from BRAC University. I am currently enrolled in 6th semester</p>
 
 <br />
 
