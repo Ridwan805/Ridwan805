@@ -30,6 +30,7 @@
 </a> 
 <a href= "https://html.com/" target = "_blank"><img src = "./images/HTML.png" alt = "HTML" width = "42" height = "42"></a></p>
 
+
 <h2 align="left">Certificates:</h1>
 <p>
 <h3 align="left">Sololearn</h3>
@@ -48,6 +49,8 @@
   <a href="https://www.hackerrank.com/certificates/2c1b81f76205">
     <img src="./certificates/Python.png" alt="Python basics" width="350"/>
   </a>
+<h3 align = "left">Codedex</h3>
+ <a href = "https://www.codedex.io/certificates/e94a1443-99ca-437f-ba91-8e809db359a2" target= "_blank"> <img src = "./certificates/The%20Legend%20of%20Python.png" alt="The legend of Python" width = "350"</a>
 </p><br /><br />
 
 <h2 align = "center">Projects</h3>
