@@ -63,7 +63,7 @@
    </a>
      </li>
    <li>
-   <a href = "https://github.com/Ridwan805/Tkinter/tree/main/Sorting%20hat">
+   <a href = "https://github.com/Ridwan805/python-projects/tree/main/Sorting%20hat">
     <img align = "center" alt = "HP" width = "150" src = "./projects/sorting%20hat.png">
   </a>
      </li>
