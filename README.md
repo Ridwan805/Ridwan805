@@ -1,6 +1,6 @@
-### Ahoy there 👋 
+## Ahoy there 👋 
 # Welcome to the land of learning something new and exciting.
-#### <p align ="center">Hello, Welcome to my Github profile. My name is Ridwan and currently I am pursuing my Bachelors of Science in Computer Science and Engineering from BRAC University. I am currently enrolled in 6th semester</p>
+<p align ="center" style = "font-size20px" >Hello, Welcome to my Github profile. My name is Ridwan and currently I am pursuing my Bachelors of Science in Computer Science and Engineering from BRAC University. I am currently enrolled in 6th semester. Currently I am learning HTML and OOP in C++. I have also done some <a href = "#Projects">Project</a> using python </p>
 
 <br />
 
@@ -53,7 +53,8 @@
  <a href = "https://www.codedex.io/certificates/e94a1443-99ca-437f-ba91-8e809db359a2" target= "_blank"> <img src = "./certificates/The%20Legend%20of%20Python.png" alt="The legend of Python" width = "350"</a>
 </p><br /><br />
 
-<h2 align = "center">Projects</h3>
+
+<h2 class = "heading" id = "Projects" align = "center">Projects</h3>
 <p>
   <ul>
     <li>
@@ -68,6 +69,7 @@
      </li>
   </ul>
 </p>
+
 <br><br/><br/>
 
 
