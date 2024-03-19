@@ -35,22 +35,24 @@
 <p>
 <h3 align="left">Sololearn</h3>
   <a href="https://www.sololearn.com/certificates/CC-RUIKF9SY">
-    <img src="./certificates/Introduction to C.jpg" alt="Introduction to C" width="350"/>
+    <img src="./certificates/Introduction to C.jpg" alt="Introduction to C" width="250"/>
   </a>
   <a href="https://www.sololearn.com/certificates/CC-FUQTNNHT">
-    <img src="./certificates/C intermidiate.jpg" alt="C Intermediate"  width="350"/>
+    <img src="./certificates/C intermidiate.jpg" alt="C Intermediate"  width="250"/>
   </a>
   <a href="https://www.sololearn.com/certificates/CC-PZDHNN9U">
-    <img src="./certificates/Introduction to C++.jpg" alt="Introduction to C++"  width="350"/>
+    <img src="./certificates/Introduction to C++.jpg" alt="Introduction to C++"  width="250"/>
   </a>
 </p><br /><br />
 
 <h3 align="left">HackeRank</h3>
   <a href="https://www.hackerrank.com/certificates/2c1b81f76205">
-    <img src="./certificates/Python.png" alt="Python basics" width="350"/>
+    <img src="./certificates/Python.png" alt="Python basics" width="250"/>
   </a>
 <h3 align = "left">Codedex</h3>
- <a href = "https://www.codedex.io/certificates/e94a1443-99ca-437f-ba91-8e809db359a2" target= "_blank"> <img src = "./certificates/The%20Legend%20of%20Python.png" alt="The legend of Python" width = "350"</a>
+ <a href = "https://www.codedex.io/certificates/e94a1443-99ca-437f-ba91-8e809db359a2" target= "_blank">
+   <img src = "./certificates/The%20Legend%20of%20Python.png" alt="The legend of Python" width = "250"
+  </a>
 </p><br /><br />
 
 
