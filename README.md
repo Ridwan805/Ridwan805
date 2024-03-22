@@ -43,6 +43,9 @@
   <a href="https://www.sololearn.com/certificates/CC-PZDHNN9U">
     <img src="./certificates/Introduction to C++.jpg" alt="Introduction to C++"  width="250"/>
   </a>
+   <a href="https://www.sololearn.com/certificates/CC-PTHE2E4H">
+    <img src="./certificates/Introduction to python.jpg" alt="Introduction to python"  width="250"/>
+  </a>
 </p><br /><br />
 
 <h3 align="left">HackeRank</h3>
