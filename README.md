@@ -1,6 +1,13 @@
 ## Ahoy there 👋 
-# Welcome to the land of learning something new and exciting.
-<p align ="center" style = "font-size20px" >Hello, Welcome to my Github profile. My name is Ridwan and currently I am pursuing my Bachelors of Science in Computer Science and Engineering from BRAC University. I am currently enrolled in 6th semester. Currently I am learning HTML and OOP in C++. I have also done some <a href = "#Projects">Project</a> using python. Hope you guys will like these. Now I am trying to learn HTML, CSS and JS.</p>
+<h1 align = "center"> Welcome to the land of learning something new and exciting.</h1>
+<p align ="center" style = "font-size20px" >Hello, Welcome to my Github profile. My name is Ridwan and currently I am pursuing my Bachelors of Science in Computer Science and Engineering from BRAC University. I am currently enrolled in 6th semester. Currently I am learning HTML and OOP in C++. I have also done some <a href = "#Projects">Project</a> using python. Hope you guys will like these. Now I am trying to learn HTML, CSS and JS. </p>
+<br><br><br><br>
+
+<h3>The repos I am currently working On</h3>
+<ul>
+  <li><h4><a href= "https://github.com/Ridwan805/Tkinter" target ="_blank"><b>Tkinker Library of Python</b></a></h4></li>
+  <li><h4><a href= "https://github.com/Ridwan805/starting-HTML-from-Scratch" target ="_blank"><b>HTML</b></a></h4></li>
+</ul>
 
 <br />
 
@@ -9,14 +16,14 @@
 
 <h2 align="left">Connect with me:</h1>
 <p align="left">
-<a href="https://dev.to/@ridwan805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@ridwan805" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ridwanur rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ridwanur rahman" height="30" width="40" /></a>
-<a href="https://fb.com/ridwan.rahman.2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ridwanur rahman" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ridwanurrahman21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ridwanurrahman21" height="30" width="40" /></a>
-<a href="https://discord.gg/rid_0905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rid_0905" height="30" width="40" /></a>
-<a href="https://www.instagram.com/i_am.the.wan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rid_0905" height="30" width="40" /></a>
-<a href="https://twitter.com/@mr_hacrex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mr_hacrex" height="30" width="40" /></a>
-<a href="https://www.behance.net/in_a_flash" target="blank"><img align="center" src="./images/behance-1.png" alt="in_a_flash" width="33" /></a>
+  <a href="https://dev.to/@ridwan805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@ridwan805" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/ridwanur rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ridwanur rahman" height="30" width="40" /></a>
+  <a href="https://fb.com/ridwan.rahman.2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ridwanur rahman" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/@ridwanurrahman21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ridwanurrahman21" height="30" width="40" /></a>
+  <a href="https://discord.gg/rid_0905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rid_0905" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/i_am.the.wan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rid_0905" height="30" width="40" /></a>
+  <a href="https://twitter.com/@mr_hacrex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mr_hacrex" height="30" width="40" /></a>
+  <a href="https://www.behance.net/in_a_flash" target="blank"><img align="center" src="./images/behance-1.png" alt="in_a_flash" width="33" /></a>
   
 </p>
 
@@ -28,7 +35,8 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/tutorial/c++-tutorial.html?inl=pf" target="_blank"> <img src="./images/C++ logo.png" alt="cpp" width="34"/> </a><a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="./images/photoshop.png" 
   alt="photoshop" width="40" height="40"/> </a> 
-  <a href= "https://html.com/" target = "_blank"><img src = "./images/HTML.png" alt = "HTML" width = "42" height = "42"></a></p>
+  <a href= "https://html.com/" target = "_blank"><img src = "./images/HTML.png" alt = "HTML" width = "42" height = "42"></a>
+</p>
 
 
 <h2 align="left">Certificates:</h1>
@@ -46,7 +54,8 @@
    <a href="https://www.sololearn.com/certificates/CC-PTHE2E4H">
     <img src="./certificates/Introduction to python.jpg" alt="Introduction to python"  width="250"/>
   </a>
-</p><br /><br />
+</p>
+<br /><br />
 
 <h3 align="left">HackeRank</h3>
   <a href="https://www.hackerrank.com/certificates/2c1b81f76205">
@@ -56,7 +65,8 @@
  <a href = "https://www.codedex.io/certificates/e94a1443-99ca-437f-ba91-8e809db359a2" target= "_blank">
    <img src = "./certificates/The%20Legend%20of%20Python.png" alt="The legend of Python" width = "250"
   </a>
-</p><br /><br />
+</p>
+<br /><br />
 
 
 <h2 class = "heading" id = "Projects" align = "center">Projects</h3>
