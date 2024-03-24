@@ -1,18 +1,24 @@
 ## Ahoy there 👋 
 <h1 align = "center"> Welcome to the land of learning something new and exciting.</h1>
 <p align ="center" style = "font-size20px" >Hello, Welcome to my Github profile. My name is Ridwan and currently I am pursuing my Bachelors of Science in Computer Science and Engineering from BRAC University. I am currently enrolled in 6th semester. Currently I am learning HTML and OOP in C++. I have also done some <a href = "#Projects">Project</a> using python. Hope you guys will like these. Now I am trying to learn HTML, CSS and JS. </p>
+
 <br><br><br><br>
 
-<h3>The repos I am currently working On</h3>
-<ul>
-  <li><h4><a href= "https://github.com/Ridwan805/Tkinter" target ="_blank"><b>Tkinker Library of Python</b></a></h4></li>
-  <li><h4><a href= "https://github.com/Ridwan805/starting-HTML-from-Scratch" target ="_blank"><b>HTML</b></a></h4></li>
-</ul>
+<div align = "center">
+  <h3 align = "center">The repos I am currently working On:</h3>
+    <h4><a href= "https://github.com/Ridwan805/Tkinter" target ="_blank"><b>Tkinker Library of Python</b></a></h4></li>
+    <h4><a href= "https://github.com/Ridwan805/starting-HTML-from-Scratch" target ="_blank"><b>HTML</b></a></h4></li>
+</div>
 
-<br />
+<br/><br/>
 
-<br/><img align="center" alt ="productive" width = "700" src ="https://pro2-bar-s3-cdn-cf4.myportfolio.com/6bf15332131ce25cbb94233a9918c9ab/f4c36571-ff98-412e-acf4-5d6c06de6e7a.gif?h=a8bda9ea67ee067b99da2db6db0acb5b"><br/>
+<p align = "center">
+<img  alt ="productive" width = "700" src ="https://pro2-bar-s3-cdn-cf4.myportfolio.com/6bf15332131ce25cbb94233a9918c9ab/f4c36571-ff98-412e-acf4-5d6c06de6e7a.gif?h=a8bda9ea67ee067b99da2db6db0acb5b"><br/>
+</p>
+
 <br/><br/><br/><br>
+
+
 
 <h2 align="left">Connect with me:</h1>
 <p align="left">
@@ -42,29 +48,29 @@
 <h2 align="left">Certificates:</h1>
 <p>
 <h3 align="left">Sololearn</h3>
-  <a href="https://www.sololearn.com/certificates/CC-RUIKF9SY">
-    <img src="./certificates/Introduction to C.jpg" alt="Introduction to C" width="250"/>
-  </a>
-  <a href="https://www.sololearn.com/certificates/CC-FUQTNNHT">
-    <img src="./certificates/C intermidiate.jpg" alt="C Intermediate"  width="250"/>
-  </a>
-  <a href="https://www.sololearn.com/certificates/CC-PZDHNN9U">
-    <img src="./certificates/Introduction to C++.jpg" alt="Introduction to C++"  width="250"/>
-  </a>
-   <a href="https://www.sololearn.com/certificates/CC-PTHE2E4H">
-    <img src="./certificates/Introduction to python.jpg" alt="Introduction to python"  width="250"/>
-  </a>
+    <a href="https://www.sololearn.com/certificates/CC-RUIKF9SY">
+      <img src="./certificates/Introduction to C.jpg" alt="Introduction to C" width="250"/>
+    </a>
+    <a href="https://www.sololearn.com/certificates/CC-FUQTNNHT">
+      <img src="./certificates/C intermidiate.jpg" alt="C Intermediate"  width="250"/>
+    </a>
+    <a href="https://www.sololearn.com/certificates/CC-PZDHNN9U">
+      <img src="./certificates/Introduction to C++.jpg" alt="Introduction to C++"  width="250"/>
+    </a>
+     <a href="https://www.sololearn.com/certificates/CC-PTHE2E4H">
+      <img src="./certificates/Introduction to python.jpg" alt="Introduction to python"  width="250"/>
+    </a>
 </p>
 <br /><br />
 
 <h3 align="left">HackeRank</h3>
-  <a href="https://www.hackerrank.com/certificates/2c1b81f76205">
-    <img src="./certificates/Python.png" alt="Python basics" width="250"/>
-  </a>
+    <a href="https://www.hackerrank.com/certificates/2c1b81f76205">
+      <img src="./certificates/Python.png" alt="Python basics" width="250"/>
+    </a>
 <h3 align = "left">Codedex</h3>
- <a href = "https://www.codedex.io/certificates/e94a1443-99ca-437f-ba91-8e809db359a2" target= "_blank">
-   <img src = "./certificates/The%20Legend%20of%20Python.png" alt="The legend of Python" width = "250"
-  </a>
+   <a href = "https://www.codedex.io/certificates/e94a1443-99ca-437f-ba91-8e809db359a2" target= "_blank">
+     <img src = "./certificates/The%20Legend%20of%20Python.png" alt="The legend of Python" width = "250"
+   </a>
 </p>
 <br /><br />
 
@@ -88,17 +94,20 @@
 <br><br/><br/>
 
 
+<p align = "center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ridwan805&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="ridwan805" /> 
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ridwan805&show_icons=true&locale=en&theme=onedark&hide_border=true" alt="ridwan805" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridwan805&theme=dracula&hide_border=true" alt="ridwan805" />
+</p>
 
-**<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridwan805&show_icons=true&locale=en&layout=compact" alt="ridwan805" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridwan805&show_icons=true&locale=en" alt="ridwan805" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridwan805&" alt="ridwan805" /></p>**
 <br /><br /><br /><br /><br /><br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ridwan805&label=Goldberging%20me&color=0e75b6&style=flat" alt="ridwan805" width = "150"/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridwan805&theme=onedark" alt="ridwan805" /></a> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridwan805&theme=onedark" alt="ridwan805" /></a> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ridwan805&label=Goldberging%20me&color=0e75b6&style=flat" alt="ridwan805" width = "150"/> </p>
 
 
 ## #30NitesOfCode:
