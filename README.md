@@ -21,7 +21,7 @@
 
 
 <h2 align="left">Connect with me:</h1>
-<p align="left">
+<p align="center">
   <a href="https://dev.to/@ridwan805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@ridwan805" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/ridwanur rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ridwanur rahman" height="30" width="40" /></a>
   <a href="https://fb.com/ridwan.rahman.2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ridwanur rahman" height="30" width="40" /></a>
@@ -35,13 +35,13 @@
 
 
 <h2 align="left">Languages and Tools:</h1>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<p align="center"> 
+  <a href="https://www.cprogramming.com/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> </a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" /> </a> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a> 
   <a href="https://www.cprogramming.com/tutorial/c++-tutorial.html?inl=pf" target="_blank"> <img src="./images/C++ logo.png" alt="cpp" width="34"/> </a><a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="./images/photoshop.png" 
-  alt="photoshop" width="40" height="40"/> </a> 
-  <a href= "https://html.com/" target = "_blank"><img src = "./images/HTML.png" alt = "HTML" width = "42" height = "42"></a>
+  alt="photoshop" width="40" height="40" /> </a> 
+  <a href= "https://html.com/" target = "_blank"><img src = "./images/HTML.png" alt = "HTML" width = "42" height = "42" ></a>
 </p>
 
 
