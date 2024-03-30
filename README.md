@@ -4,11 +4,11 @@
 
 <br><br><br><br>
 
-<div align = "center">
+<!--<div align = "center">
   <h3 align = "center">The repos I am currently working On:</h3>
     <h4><a href= "https://github.com/Ridwan805/Tkinter" target ="_blank"><b>Tkinker Library of Python</b></a></h4></li>
     <h4><a href= "https://github.com/Ridwan805/starting-HTML-from-Scratch" target ="_blank"><b>HTML</b></a></h4></li>
-</div>
+</div>-->
 
 <br/><br/>
 
