@@ -1,6 +1,6 @@
 ## Ahoy there 👋 
 <h1 align = "center"> Welcome to the land of learning something new and exciting.</h1>
-<p align ="center" style = "font-size20px" >Hello, Welcome to my Github profile. My name is Ridwan and currently I am pursuing my Bachelors of Science in Computer Science and Engineering from BRAC University. I am currently enrolled in 6th semester. Currently I am learning HTML and OOP in C++. I have also done some <a href = "#Projects">Project</a> using python. Hope you guys will like these. Now I am trying to learn HTML, CSS and JS. </p>
+<p align ="center" style = "font-size20px" >Greetings and welcome to my Github profile! I'm Ridwan, currently in pursuit of a Bachelor of Science in Computer Science and Engineering at BRAC University, currently in my 6th semester. Currently, I'm immersing myself in the realms of HTML and Object-Oriented Programming in C++, while also engaging in <a href="#Projects">Projects</a> that employ Python. I hope you'll find them intriguing and worthwhile. Additionally, I'm actively working on broadening my expertise in HTML, CSS, and JavaScript to further enhance my skill set </p>
 
 <br><br><br><br>
 
