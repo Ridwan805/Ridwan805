@@ -83,15 +83,20 @@
 <p>
   <ul>
     <li>
-   <a herf = "https://github.com/Ridwan805/Codedex-project/tree/main/python">
-     <img align="center" alt ="gif" width = "150" src ="./projects/clock.gif">
-   </a>
-     </li>
+     <a herf = "https://github.com/Ridwan805/Codedex-project/tree/main/python">
+       <img align="center" alt ="gif" width = "150" src ="./projects/clock.gif">
+     </a>
+   </li>
    <li>
-   <a href = "https://github.com/Ridwan805/python-projects/tree/main/Sorting%20hat">
-    <img align = "center" alt = "HP" width = "150" src = "./projects/sorting%20hat.png">
-  </a>
-     </li>
+     <a href = "https://github.com/Ridwan805/python-projects/tree/main/Sorting%20hat">
+      <img align = "center" alt = "HP" width = "150" src = "./projects/sorting%20hat.png">
+     </a>
+    </li>
+    <li>
+      <a herf="https://github.com/Ridwan805/python-projects/tree/main/The%20restaurant%20app">
+        <img src= "./projects/Resturant.png" align = "center" alt = "Restaurant" width = "150">
+      </a>
+    </li>
   </ul>
 </p>
 
