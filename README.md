@@ -108,7 +108,8 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=ridwan805&show_icons=true&locale=en&theme=onedark&hide_border=true" alt="ridwan805" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridwan805&theme=dracula&hide_border=true" alt="ridwan805" />
+  <img src="https://streak-stats.demolab.com?user=ridwan805&theme=onedark" alt="GitHub Streak" />
+  <br>
 </p>
 
 <br /><br /><br /><br /><br /><br />
