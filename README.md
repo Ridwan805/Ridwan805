@@ -93,7 +93,7 @@
      </a>
     </li>
     <li>
-      <a herf="https://github.com/Ridwan805/python-projects/tree/main/The%20restaurant%20app">
+      <a href="https://github.com/Ridwan805/python-projects/tree/main/The%20restaurant%20app">
         <img src= "./projects/Resturant.png" align = "center" alt = "Restaurant" width = "150">
       </a>
     </li>
