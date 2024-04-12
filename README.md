@@ -62,6 +62,9 @@
      <a href="https://www.sololearn.com/certificates/CC-PTHE2E4H">
       <img src="./certificates/Introduction to python.jpg" alt="Introduction to python"  width="250"/>
     </a>
+    <a href="https://www.sololearn.com/certificates/CC-G682PRWG">
+      <img src="./certificates/HTMLsolo.png" alt="HTML"  width="250"/>
+    </a>
   </div>
 </p>
     
