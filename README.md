@@ -84,7 +84,7 @@
      <img src = "./certificates/The%20Legend%20of%20Python.png" alt="The legend of Python" width = "250"
    </a>
      <a href = "https://www.codedex.io/certificates/29b54bec-6f82-40d5-aa1b-cecd06ae8c8d" target= "_blank">
-     <img src = "./certificates/HTML.png" alt="The Origin I HTML" width = "250"
+     <img src = "./certificates/HTMLcode.png" alt="The Origin I HTML" width = "250"
    </a>
   </div>
 </p>
