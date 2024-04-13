@@ -95,7 +95,7 @@
 <p>
   <ul>
     <li>
-     <a herf = "https://github.com/Ridwan805/Codedex-project/tree/main/python">
+     <a href = "https://github.com/Ridwan805/Codedex-project/tree/main/python">
        <img align="center" alt ="gif" width = "150" src ="./projects/clock.gif">
      </a>
    </li>
@@ -120,7 +120,7 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=ridwan805&show_icons=true&locale=en&theme=onedark&hide_border=true" alt="ridwan805" />
   <br>
-  <img src="https://streak-stats.demolab.com?user=ridwan805&theme=onedark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ridwan805&theme=onedark&hide_border=true" alt="GitHub Streak" />
   <br>
 </p>
 
