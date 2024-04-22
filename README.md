@@ -132,9 +132,11 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ridwan805&label=Goldberging%20me&color=0e75b6&style=flat" alt="ridwan805" width = "150"/> </p>
 
 
-## #30NitesOfCode:
+<!--## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@ridwanurra31653/30-nites-of-code)  
-  ![@ridwanurra31653 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=ridwanurra31653)
+  ![@ridwanurra31653 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=ridwanurra31653) -->
+
+<!--<h6>Taking a small break</h6>-->
 <!--
 **Ridwan805/Ridwan805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
