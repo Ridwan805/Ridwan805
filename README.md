@@ -89,6 +89,13 @@
   </div>
 </p>
 <br /><br />
+<h3 align="center">FreeCodeCamp</h3>
+  <div align="center">
+    <a href="https://www.freecodecamp.org/certification/Rid08/scientific-computing-with-python-v7">
+      <img src="./certificates/Scientific Computing with Python.png" alt="Scientific Computing with Python" width="250"/>
+    </a>
+  </div>
+ <br /><br />
 
 
 <h2 class = "heading" id = "Projects" align = "center">Projects</h3>
