@@ -83,8 +83,11 @@
    <a href = "https://www.codedex.io/certificates/e94a1443-99ca-437f-ba91-8e809db359a2" target= "_blank">
      <img src = "./certificates/The%20Legend%20of%20Python.png" alt="The legend of Python" width = "250"
    </a>
-     <a href = "https://www.codedex.io/certificates/29b54bec-6f82-40d5-aa1b-cecd06ae8c8d" target= "_blank">
+    <a href = "https://www.codedex.io/certificates/29b54bec-6f82-40d5-aa1b-cecd06ae8c8d" target= "_blank">
      <img src = "./certificates/HTMLcode.png" alt="The Origin I HTML" width = "250"
+   </a>
+    <a href = "https://www.codedex.io/certificates/b74526f9-5714-486d-a056-8382ac8fe1e3" target= "_blank">
+     <img src = "./certificates/The origin II CSS-1.png" alt="The Origin II CSS" width = "250"
    </a>
   </div>
 </p>
