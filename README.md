@@ -43,7 +43,7 @@
   alt="photoshop" width="40" height="40" /> </a> 
   <a href= "https://html.com/" target = "_blank"><img src = "./images/HTML.png" alt = "HTML" width = "42" height = "42" ></a>
   <a herf= "https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS" target="_blank"><img src = "./images/css logo.png"alt = "CSS" width = "44" height = "44" ></a>
-  <a herf= "" target="_blank"><img src = "./images/JAVASCRIPT-1.png" alt = "JavaScript" width = 4% ></a>
+  <a herf= "https://www.javascript.com/" target="_blank"><img src = "./images/JAVASCRIPT-1.png" alt = "JavaScript" width = 4% ></a>
 </p>
 
 
