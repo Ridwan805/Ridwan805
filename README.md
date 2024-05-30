@@ -129,7 +129,7 @@
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ridwan805&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ridwan805" /> 
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ridwan805&show_icons=true&locale=en&theme=onedark&hide_border=true" alt="ridwan805" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ridwan805&show_icons=true&locale=en&theme=onedark" alt="ridwan805" />
   <br>
   <img src="https://streak-stats.demolab.com?user=ridwan805&theme=onedark&hide_border=true" alt="GitHub Streak" />
   <br>
