@@ -90,6 +90,9 @@
     <a href = "https://www.codedex.io/certificates/b74526f9-5714-486d-a056-8382ac8fe1e3" target= "_blank">
      <img src = "./certificates/The origin II CSS-1.png" alt="The Origin II CSS" width = "250"
    </a>
+    <a href = "https://www.codedex.io/certificates/22e7ff53-550b-4bd9-9adb-7ffd85e6c12e" target= "_blank">
+     <img src = "./certificates/The origin II JS-1.png" alt="The Origin III JavaScript" width = "250"
+   </a>
   </div>
 </p>
 <br /><br />
