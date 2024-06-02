@@ -134,7 +134,7 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=ridwan805&show_icons=true&locale=en&theme=onedark" alt="ridwan805" />
   <br>
-  <img src="https://streak-stats.demolab.com?user=ridwan805&theme=onedark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ridwan805&theme=onedark" alt="GitHub Streak" />
   <br>
 </p>
 
