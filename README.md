@@ -11,8 +11,9 @@
 
 <p align="left">I'm from Dhaka, Bangladesh<br><br>- 🔭 I’m working as an engineering intern at Aintuition Academy<br>- 📚 I'm currently learning how to broaden my knowledge<br>- ⚡ In my free time, I play games, try to research and expand my knowlegde</p>
 
-<h3 align="left">🛠 Connect with me</h3>
 ###
+<h3 align="left">🛠 Connect with me</h3>
+
 <div align="left">
   <a href="https://www.linkedin.com/in/ridwanur-rahman/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
