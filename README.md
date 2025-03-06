@@ -1,166 +1,87 @@
-## Hello there  👋 
-<h1 align = "center"> Welcome to the land of learning something new and exciting.</h1>
-<p align ="center" style = "font-size20px" >Greetings and welcome to my Github profile! I'm Ridwan, currently in pursuit of a Bachelor of Science in Computer Science and Engineering at BRAC University, currently in my 6th semester. At this moment, I'm immersing myself in the realms of HTML <!--and Object-Oriented Programming in C++,--> while also engaging in <a href="#Projects">Projects</a> that employ Python. I hope you'll find them intriguing and worthwhile. Additionally, I'm actively working on broadening my expertise in HTML, CSS, & JavaScript and Tkinter in python to further enhance my skill set. </p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/ridwanur-rahman/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://dev.to/ridwan805" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  </a>
+  <a href="https://discord.com/rid_0905" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://www.behance.net/in_a_flash" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/ridwanurrahman21" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  </a>
+  <a href="ridwanurrahman214@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
-<br><br><br><br><br>
+###
 
-<!--<div align = "center">
-  <h3 align = "center">The repos I am currently working On:</h3>
-    <h4><a href= "https://github.com/Ridwan805/Tkinter" target ="_blank"><b>Tkinker Library of Python</b></a></h4></li>
-    <h4><a href= "https://github.com/Ridwan805/starting-HTML-from-Scratch" target ="_blank"><b>HTML</b></a></h4></li>
-</div>-->
+<h1 align="center">Hey there 👋</h1>
 
-<!--<br/><br/>
+###
 
-<p align = "center">
-<img  alt ="productive" width = "700" src ="https://pro2-bar-s3-cdn-cf4.myportfolio.com/6bf15332131ce25cbb94233a9918c9ab/f4c36571-ff98-412e-acf4-5d6c06de6e7a.gif?h=a8bda9ea67ee067b99da2db6db0acb5b"><br/>
-</p>
+<h3 align="left">My name is Ridwan  currently in pursuit of a Bachelor of Science in Computer Science and Engineering at BRAC University, currently in my 9th semester.</h3>
 
-<br/><br/><br/><br><br>-->
+###
 
+<p align="left">I'm from Dhaka, Bangladesh<br><br>- 🔭 I’m working as an engineering intern at Aintuition Academy<br>- 📚 I'm currently learning how to broaden my knowledge<br>- ⚡ In my free time, I play games, try to research and expand my knowlegde</p>
 
+###
 
-<h2 align="left">Connect with me:</h1>
-<p align="center">
-  <a href="https://dev.to/@ridwan805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@ridwan805" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/ridwanur-rahman-9643b3293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ridwanur rahman" height="30" width="40" /></a>
-  <a href="https://fb.com/ridwan.rahman.2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ridwanur rahman" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/@ridwanurrahman21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ridwanurrahman21" height="30" width="40" /></a>
-  <a href="https://discord.gg/rid_0905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rid_0905" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/i_am.the.wan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rid_0905" height="30" width="40" /></a>
-  <a href="https://twitter.com/@mr_hacrex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mr_hacrex" height="30" width="40" /></a>
-  <a href="https://www.behance.net/in_a_flash" target="blank"><img align="center" src="./images/behance-1.png" alt="in_a_flash" width="33" /></a>
-  
-</p>
+<h3 align="left">🛠 Language and tools</h3>
 
+###
 
-<h2 align="left">Languages and Tools:</h1>
-<p align="center"> 
-  <a href="https://www.cprogramming.com/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" /> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a> 
-  <a href="https://www.cprogramming.com/tutorial/c++-tutorial.html?inl=pf" target="_blank"> <img src="./images/C++ logo.png" alt="cpp" width="34"/> </a><a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="./images/photoshop.png" 
-  alt="photoshop" width="40" height="40" /> </a> 
-  <a href= "https://html.com/" target = "_blank"><img src = "./images/HTML.png" alt = "HTML" width = "42" height = "42" ></a>
-  <a href= "https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS" target="_blank"><img src = "./images/css logo.png"alt = "CSS" width = "44" height = "44" ></a>
-  <a href= "https://www.javascript.com/" target="_blank"><img src = "./images/JAVASCRIPT-1.png" alt = "JavaScript" width = 4% ></a>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="40" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+</div>
 
+###
 
-<h2 align="center">Certificates:</h1>
-<p>
-<h3 align="center">Sololearn</h3>
-  <div align = "center">
-    <a href="https://www.sololearn.com/certificates/CC-RUIKF9SY">
-      <img src="./certificates/Introduction to C.jpg" alt="Introduction to C" width="250"/>
-    </a>
-    <a href="https://www.sololearn.com/certificates/CC-FUQTNNHT">
-      <img src="./certificates/C intermidiate.jpg" alt="C Intermediate"  width="250"/>
-    </a>
-    <a href="https://www.sololearn.com/certificates/CC-PZDHNN9U">
-      <img src="./certificates/Introduction to C++.jpg" alt="Introduction to C++"  width="250"/>
-    </a>
-     <a href="https://www.sololearn.com/certificates/CC-PTHE2E4H">
-      <img src="./certificates/Introduction to python.jpg" alt="Introduction to python"  width="250"/>
-    </a>
-    <a href="https://www.sololearn.com/certificates/CC-G682PRWG">
-      <img src="./certificates/HTMLsolo.png" alt="HTML"  width="250"/>
-    </a>
-  </div>
-</p>
-    
-<br /><br />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Ridwan805/count.svg?"  />
+</div>
 
-<h3 align="center">HackeRank</h3>
-  <div align="center">
-    <a href="https://www.hackerrank.com/certificates/2c1b81f76205">
-      <img src="./certificates/Python.png" alt="Python basics" width="250"/>
-    </a>
-  </div>
- <br /><br />
-  
-<h3 align = "center">Codedex</h3>
-  <div align = "center">
-   <a href = "https://www.codedex.io/certificates/e94a1443-99ca-437f-ba91-8e809db359a2" target= "_blank">
-     <img src = "./certificates/The%20Legend%20of%20Python.png" alt="The legend of Python" width = "250"
-   </a>
-    <a href = "https://www.codedex.io/certificates/29b54bec-6f82-40d5-aa1b-cecd06ae8c8d" target= "_blank">
-     <img src = "./certificates/HTMLcode.png" alt="The Origin I HTML" width = "250"
-   </a>
-    <a href = "https://www.codedex.io/certificates/b74526f9-5714-486d-a056-8382ac8fe1e3" target= "_blank">
-     <img src = "./certificates/The origin II CSS-1.png" alt="The Origin II CSS" width = "250"
-   </a>
-    <a href = "https://www.codedex.io/certificates/22e7ff53-550b-4bd9-9adb-7ffd85e6c12e" target= "_blank">
-     <img src = "./certificates/The origin II JS-1.png" alt="The Origin III JavaScript" width = "250"
-   </a>
-  </div>
-</p>
-<br /><br />
-<h3 align="center">FreeCodeCamp</h3>
-  <div align="center">
-    <a href="https://www.freecodecamp.org/certification/Rid08/scientific-computing-with-python-v7">
-      <img src="./certificates/Scientific Computing with Python.png" alt="Scientific Computing with Python" width="250"/>
-    </a>
-  </div>
- <br /><br />
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ridwan805&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ridwan805&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<h2 class = "heading" id = "Projects" align = "center">Projects</h3>
-<p>
-  <ul>
-    <li>
-     <a href = "https://github.com/Ridwan805/Codedex-project/tree/main/python">
-       <img align="center" alt ="gif" width = "150" src ="./projects/clock.gif">
-     </a>
-   </li>
-   <li>
-     <a href = "https://github.com/Ridwan805/python-projects/tree/main/Sorting%20hat">
-      <img align = "center" alt = "HP" width = "150" src = "./projects/sorting%20hat.png">
-     </a>
-    </li>
-    <li>
-      <a href="https://github.com/Ridwan805/python-projects/tree/main/The%20restaurant%20app">
-        <img src= "./projects/Resturant.png" align = "center" alt = "Restaurant" width = "150">
-      </a>
-    </li>
-  </ul>
-</p>
+###
 
-<br><br/><br/>
+<img src="https://raw.githubusercontent.com/Ridwan805/Ridwan805/output/snake.svg" alt="Snake animation" />
 
-
-<p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ridwan805&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ridwan805" /> 
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ridwan805&show_icons=true&locale=en&theme=onedark" alt="ridwan805" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=ridwan805&theme=onedark" alt="GitHub Streak" />
-  <br>
-</p>
-
-<br /><br /><br /><br /><br /><br />
-
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridwan805&theme=onedark" alt="ridwan805" /></a> </p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ridwan805&label=Goldberging%20me&color=0e75b6&style=flat" alt="ridwan805" width = "150"/> </p>
-
-
-<!--## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@ridwanurra31653/30-nites-of-code)  
-  ![@ridwanurra31653 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=ridwanurra31653) -->
-
-<!--
-**Ridwan805/Ridwan805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
