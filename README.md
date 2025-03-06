@@ -1,3 +1,18 @@
+
+###
+
+<h1 align="center">Hey there 👋</h1>
+
+###
+
+<h3 align="left">My name is Ridwan  currently in pursuit of a Bachelor of Science in Computer Science and Engineering at BRAC University, currently in my 9th semester.</h3>
+
+###
+
+<p align="left">I'm from Dhaka, Bangladesh<br><br>- 🔭 I’m working as an engineering intern at Aintuition Academy<br>- 📚 I'm currently learning how to broaden my knowledge<br>- ⚡ In my free time, I play games, try to research and expand my knowlegde</p>
+
+<h3 align="left">🛠 Connect with me</h3>
+###
 <div align="left">
   <a href="https://www.linkedin.com/in/ridwanur-rahman/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -18,20 +33,6 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<h1 align="center">Hey there 👋</h1>
-
-###
-
-<h3 align="left">My name is Ridwan  currently in pursuit of a Bachelor of Science in Computer Science and Engineering at BRAC University, currently in my 9th semester.</h3>
-
-###
-
-<p align="left">I'm from Dhaka, Bangladesh<br><br>- 🔭 I’m working as an engineering intern at Aintuition Academy<br>- 📚 I'm currently learning how to broaden my knowledge<br>- ⚡ In my free time, I play games, try to research and expand my knowlegde</p>
-
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
