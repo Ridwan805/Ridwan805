@@ -5,7 +5,7 @@
 
 ###
 
-<h3 align="left">My name is Ridwan  currently in pursuit of a Bachelor of Science in Computer Science and Engineering at BRAC University, currently in my 9th semester.</h3>
+<h3 align="left">My name is Ridwan  currently in pursuit of a Bachelor of Science in Computer Science and Engineering at BRAC University, currently in my 12th and last semester.</h3>
 
 ###
 
